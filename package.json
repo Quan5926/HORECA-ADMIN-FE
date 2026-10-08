@@ -14,10 +14,16 @@
     "format": "prettier --write --experimental-cli src/"
   },
   "dependencies": {
+    "@vueup/vue-quill": "^1.2.0",
+    "axios": "^1.13.6",
     "bootstrap": "^5.3.8",
     "bootstrap-icons": "^1.13.1",
+    "chart.js": "^4.5.1",
     "vue": "^3.5.25",
-    "vue-router": "^4.6.3"
+    "vue-advanced-cropper": "^2.8.9",
+    "vue-router": "^4.6.3",
+    "vue-toastification": "^2.0.0-rc.5",
+    "vue3-recaptcha2": "^1.8.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
